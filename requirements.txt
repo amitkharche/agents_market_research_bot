@@ -1,5 +1,6 @@
 openai
-streamlit
+python-dotenv
 pandas
-beautifulsoup4
+streamlit
 selenium
+beautifulsoup4
