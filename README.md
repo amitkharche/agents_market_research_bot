@@ -120,9 +120,9 @@ Make sure to bind your `.env` or pass the OpenAI API key securely in the contain
 ## 🧑‍💻 Author
 
 Built by \[Amit Kharche]
-[LinkedIn](https://www.linkedin.com/in/yourprofile)
-[GitHub](https://github.com/your-username)
-[Medium](https://medium.com/@amitkharche14)
+[LinkedIn](https://www.linkedin.com/in/amitkharche)
+[GitHub](https://github.com/amitkharche)
+[Medium](https://medium.com/@amitkharche)
 
 
 ---
